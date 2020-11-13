@@ -1,0 +1,24 @@
+/* BASIC HEDINGS */
+h1, h2, h3{
+  text-align: center;
+}
+
+body {
+  background-color: #839B97;
+  font-family: 'Goldman', cursive;
+}
+
+/* MAIN */
+
+.upper-part {
+  padding: 5%;
+}
+
+.dice {
+  text-align: center;
+}
+
+.instruct {
+  padding: 5%;
+  text-align: center;
+}
